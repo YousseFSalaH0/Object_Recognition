@@ -1,4 +1,3 @@
 # Pattern_Project
-### Names:
-1) Omar Hesham Dawa
-2) Youssef Salah Mohamed
+### Names: Youssef Salah Mohamed
+### Code: 1170191
